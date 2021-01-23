@@ -1,0 +1,55 @@
+#third{border-bottom-width: 3px;
+	border-bottom-style: solid;
+	 border-bottom-color: black;
+	 border-top-width: 3px;
+	border-top-style: solid;
+	 border-top-color: black;
+	 display:block;
+	 padding:5px; 
+	 }
+	 #a{padding-right:7px; 
+padding-left: 7px;
+font-size: 20px;
+text-decoration: none;
+border-left-style: solid;
+border-left-color: black;
+border-left-width: 1px;
+}
+#b{padding-right:7px; 
+padding-left: 7px;
+font-size: 20px;
+text-decoration: none;
+border-left-style: solid;
+border-left-color: black;
+border-left-width: 1px;}
+#c{padding-right:7px; 
+padding-left: 7px;
+font-size: 20px;
+text-decoration: none;
+border-left-style: solid;
+border-left-color: black;
+border-left-width: 1px;
+}
+nav a {
+	float: right;
+	text-align: center;
+	line-height: 35px;
+	box-sizing: border-box;
+}
+#logo{font-size: 30px;	
+}
+#hb{text-align: center;
+display: block;
+font-size: 32px;}
+#hbb{text-align: center;
+font-size: 40px;
+font-style: bold;}
+body nav {background-color: #2980b9;}
+#b,a:active{
+	background-color: #00a8ff;
+}
+#b,a:hover{background-color: #00a8ff;
+}
+body{background: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png) no-repeat;
+background-size: cover;
+background-attachment: fixed;}
